@@ -1,0 +1,89 @@
+﻿@model List<CustomUser>
+@{
+    ViewData["Title"] = "Index";
+    var tb = TempData["ThanhCong"] as string;
+}
+
+<h1>Users</h1>
+<div class="tbao" data-tbao="@tb"></div>
+<div class="tbl">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Username</th>
+                <th>FullName</th>
+                <th>Age</th>
+                <th>Email</th>
+                <th>Action</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.UserName</td>
+                    <td>@item.FullName</td>
+                    <td>@item.Age</td>
+                    <td>@item.Email</td>
+                    <td>
+                        <ul>
+                            <li>
+                                <a href="javascript:void(0)" class="viewUpdate" data-id="@item.Id">Update</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)" class="viewRoles" data-id="@item.Id">Set Role</a>
+                            </li>
+                            <li>Delete</li>
+                        </ul>
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog">
+</div>
+
+@section scripts{
+    <script>
+        $('.viewUpdate').off('click').on('click', function () {
+            //Goi ajax de lay view
+            var id = $(this).attr('data-id');
+            $.get("/Users/ViewUpdate?id=" + id, function (response) {
+                //Dan ma tu partialView => Modal
+                $('.modal').html('').html(response);
+                //Bat modal
+                $('.modal').modal('show');
+            })
+        })
+        $('.viewRoles').off('click').on('click', function () {
+            //Goi ajax de lay view
+            var id = $(this).attr('data-id');
+            $.get("/Users/viewSetRoles?id=" + id, function (response) {
+                //Dan ma tu partialView => Modal
+                $('.modal').html('').html(response);
+                //Bat modal
+                $('.modal').modal('show');
+            })
+        })
+
+        var tb = $('.tbao').attr('data-tbao');
+        if (tb != "") {
+            $.toast({
+                heading: 'Success',
+                text: tb,
+                showHideTransition: 'slide',
+                icon: 'success'
+            })
+        }
+
+
+    </script>
+}
+

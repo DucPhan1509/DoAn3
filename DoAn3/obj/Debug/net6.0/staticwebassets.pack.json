@@ -1,0 +1,1141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoAn3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAn3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\default.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\default.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\css\\animation.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\css\\animation.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\css\\fontello-codes.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\css\\fontello-codes.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\css\\fontello-embedded.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\css\\fontello-embedded.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\css\\fontello-ie7-codes.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\css\\fontello-ie7-codes.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\css\\fontello-ie7.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\css\\fontello-ie7.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\css\\fontello.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\font\\fontello.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fontello\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fontello\\font\\fontello.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-bold-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-bold-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-bold-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-bold-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-italic-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-italic-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-italic-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-italic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\librebaskerville\\librebaskerville-regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Bold-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Bold-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Bold-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Bold-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-BoldItalic-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-BoldItalic-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-BoldItalic-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-BoldItalic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBold-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBold-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBold-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBold-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBoldItalic-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBoldItalic-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBoldItalic-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-ExtraBoldItalic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Italic-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Italic-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Italic-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Italic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Light-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Light-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Light-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Light-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-LightItalic-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-LightItalic-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-LightItalic-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-LightItalic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Regular-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Semibold-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Semibold-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-Semibold-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-Semibold-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-SemiboldItalic-webfont.svg",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-SemiboldItalic-webfont.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\fonts\\opensans\\OpenSans-SemiboldItalic-webfont.ttf",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\fonts\\opensans\\OpenSans-SemiboldItalic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\layout.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\layout.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\css\\media-queries.css",
+      "PackagePath": "staticwebassets\\ContactForm\\css\\media-queries.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\favicon.png",
+      "PackagePath": "staticwebassets\\ContactForm\\favicon.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\header-background.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\header-background.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\overlay-bg.png",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\overlay-bg.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\overlay-zoom.png",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\overlay-zoom.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\coffee.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\coffee.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\console.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\console.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\farmerboy.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\farmerboy.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\girl.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\girl.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\into-the-light.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\into-the-light.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\judah.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\judah.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-coffee.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-coffee.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-console.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-console.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-farmerboy.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-farmerboy.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-girl.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-girl.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-intothelight.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-intothelight.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-judah.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-judah.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-origami.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-origami.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\modals\\m-retrocam.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\modals\\m-retrocam.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\origami.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\origami.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\portfolio\\retrocam.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\portfolio\\retrocam.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\profilepic.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\profilepic.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\sample-image.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\sample-image.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\images\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\images\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\init.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\init.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\jquery.fittext.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\jquery.fittext.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\ContactForm\\js\\waypoints.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\ContactForm\\preview.jpg",
+      "PackagePath": "staticwebassets\\ContactForm\\preview.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\css\\stylesheet.css",
+      "PackagePath": "staticwebassets\\Content\\css\\stylesheet.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\app-mobile-2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\app-mobile-2.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\app-mobile.png",
+      "PackagePath": "staticwebassets\\Content\\images\\app-mobile.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\app-store.png",
+      "PackagePath": "staticwebassets\\Content\\images\\app-store.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\bg\\image-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg\\image-1.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\bg\\image-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg\\image-2.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\bg\\image-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg\\image-3.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\bg\\image-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg\\image-4.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\bg\\image-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg\\image-5.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\bg\\image-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg\\image-6.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\bg\\image-7.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg\\image-7.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\cars\\creta.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\cars\\creta.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\cars\\etiosetios.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\cars\\etiosetios.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\cars\\grandi10.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\cars\\grandi10.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\cars\\honda-city.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\cars\\honda-city.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\cars\\innova-crystacreta.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\cars\\innova-crystacreta.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\cars\\xuv.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\cars\\xuv.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airindia.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airindia.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-1.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-1.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-10.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-10.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-11.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-11.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-12.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-12.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-2.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-3.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-3.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-4.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-4.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-5.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-5.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-6.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-6.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-7.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-7.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-8.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-8.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\airlines-9.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\airlines-9.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\goair.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\goair.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\indigo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\indigo.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\jetairways.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\jetairways.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\flights\\spicejet.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\flights\\spicejet.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\bangkok.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\bangkok.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\dubai.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\dubai.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-1.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-2.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-3.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-4.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-5.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-6.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-room-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-room-1.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-room-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-room-2.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\hotel-room-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\hotel-room-3.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\india.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\india.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\lodon.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\lodon.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\newyork.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\newyork.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\singapore.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\singapore.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\hotels\\tumb.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\hotels\\tumb.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\operator\\operator.png",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\operator\\operator.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\brands\\operator\\vodafone.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\brands\\operator\\vodafone.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\google-play-store.png",
+      "PackagePath": "staticwebassets\\Content\\images\\google-play-store.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo-light.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\payment\\american.png",
+      "PackagePath": "staticwebassets\\Content\\images\\payment\\american.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\payment\\discover.png",
+      "PackagePath": "staticwebassets\\Content\\images\\payment\\discover.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\payment\\mastercard.png",
+      "PackagePath": "staticwebassets\\Content\\images\\payment\\mastercard.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\payment\\paypal.png",
+      "PackagePath": "staticwebassets\\Content\\images\\payment\\paypal.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\payment\\visa.png",
+      "PackagePath": "staticwebassets\\Content\\images\\payment\\visa.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\paypal-logo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\paypal-logo.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-10.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-10.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-2.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-2.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-3.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-3.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-4.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-4.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-5.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-5.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-6.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-6.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-7.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-7.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-8.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-8.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\banner-9.html",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\banner-9.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-1.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-2.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-3.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-4.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-5.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-6.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-7.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-7.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-8.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-8.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\booking-banner-9.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\booking-banner-9.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-1.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-10.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-10.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-11-600x220.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-11-600x220.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-12-600x220.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-12-600x220.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-13-600x320.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-13-600x320.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-14-600x320.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-14-600x320.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-15-600x320.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-15-600x320.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-2.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-3.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-4.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-5.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-6.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-7.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-7.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-8.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-8.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\slider\\small-banner-9.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\small-banner-9.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\team\\leader.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\leader.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\team\\leader2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\leader2.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\team\\leader3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\leader3.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\images\\team\\leader4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\leader4.jpg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\js\\theme.js",
+      "PackagePath": "staticwebassets\\Content\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\bootstrap-spinner\\bootstrap-spinner.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\bootstrap-spinner\\bootstrap-spinner.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Content\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\easy-responsive-tabs\\easy-responsive-tabs.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\easy-responsive-tabs\\easy-responsive-tabs.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400d41dd41d.eot",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-brands-400d41dd41d.eot"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400d41dd41d.eot",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-regular-400d41dd41d.eot"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900d41dd41d.eot",
+      "PackagePath": "staticwebassets\\Content\\vendor\\font-awesome\\webfonts\\fa-solid-900d41dd41d.eot"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-seat-charts\\jquery.seat-charts.css",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-seat-charts\\jquery.seat-charts.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-seat-charts\\jquery.seat-charts.min.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-seat-charts\\jquery.seat-charts.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\owl.carousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Content\\vendor\\owl.carousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\owl.carousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Content\\vendor\\owl.carousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\owl.carousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Content\\vendor\\owl.carousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\Content\\vendor\\owl.carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Content\\vendor\\owl.carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DoAn3\\DoAn3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoAn3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoAn3.props",
+      "PackagePath": "build\\DoAn3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAn3.props",
+      "PackagePath": "buildMultiTargeting\\DoAn3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoAn3.props",
+      "PackagePath": "buildTransitive\\DoAn3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
